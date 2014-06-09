@@ -1,0 +1,9 @@
+active: true
+derived: false
+level: 1.0
+links:
+- BSNS001
+normative: false
+ref: ''
+text: |
+  This is the text of REQS001.

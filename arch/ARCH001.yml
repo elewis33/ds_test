@@ -4,4 +4,7 @@ level: 1.0
 links: []
 normative: true
 ref: ''
-text: ''
+text: |
+    This is the text of ARCH001. 
+
+    Can't wait to see what it looks like when it's generated to HTML.

@@ -4,4 +4,5 @@ level: 1.0
 links: []
 normative: true
 ref: ''
-text: ''
+text: |
+    This is the text of BSNS001. 
